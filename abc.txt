@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 dbsyvfguedystcvyscuwagysicnusgcybevbdveywiuvbhdsv
 hbosreiqaufbvew
 
 fvuiewghiawug
+=======
+dbsyvfguedystcvyscuwagysicnusgcybevbdveywiuvbhdsv
+bdcuycvdabvcbksdfcbeajdvb
+>>>>>>> master
